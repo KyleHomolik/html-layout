@@ -1,0 +1,31 @@
+.column1{
+  height: 700px;
+  width: 33%;
+  float: left;
+  background-color: #2372DF;
+}
+.column2{
+  height: 700px;
+  width: 33%;
+  float: left;
+  background-color: #31D8BC;
+}
+.column3{
+  height: 700px;
+  width: 33%;
+  float: left;
+  background-color: #D0FF69;
+}
+.box{
+  background-color: red;
+  height: 250px;
+  width: 300;
+  position: relative;
+  top: 450px;
+}
+.text{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 110px
+}

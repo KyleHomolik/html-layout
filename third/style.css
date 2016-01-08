@@ -1,0 +1,44 @@
+.gray{
+  height: 100px;
+  width: flex;
+  background-color: #999999;
+}
+.bluebox{
+  height: 80px;
+  width: 80px;
+  background-color: #47A3FF;
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+.whitetext{
+  height: 200px;
+  width: flex;
+  background-color: white;
+}
+.whitetext{
+  font-size: 20px;
+  font: sans-serif;
+  text-align: justify; ;
+  margin-top: 100px;
+}
+.blue{
+  height: 150px;
+  width: flex;
+  background-color: #47A3FF;
+}
+.green{
+  height: 150px;
+  width: flex;
+  background-color: #4DDBB8;
+}
+.olive{
+  height: 150px;
+  width: flex;
+  background-color: #C2E066;
+}
+.yellow{
+  height: 150px;
+  width: flex;
+  background-color: #FFFF4D;
+}
