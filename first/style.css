@@ -1,0 +1,23 @@
+.top{
+  height: 200px;
+  width: 100%;
+  background-color: #585858 ;
+}
+.rightBox{
+  height: 800px;
+  width: 150px;
+  float: right;
+  background-color: #C0C0C0;
+}
+.leftBox{
+  height: 800px;
+  width: 150px;
+  float: left;
+  background-color: #C0C0C0;
+}
+.bottom{
+  height: 70px;
+  width: auto;
+  background-color: black;
+  margin-top: 730px;
+}
